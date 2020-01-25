@@ -20,3 +20,9 @@ Django - Web Development Tutorial from Djangogirls
 - Create a superuser
 - Login to Django admin
 - Create posts
+
+## Ready to Deploy
+- Install git
+- Create repository & push codes to GitHub
+- Sign Up account & setup blog on PythonAnywhere
+- Ready deploy web on PythonAnywhere
