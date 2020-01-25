@@ -1,2 +1,2 @@
 # django-project
-Django - Web Development
+Django - Web Development Tutorial from Djangogirls
