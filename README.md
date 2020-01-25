@@ -8,3 +8,9 @@ Django - Web Development Tutorial from Djangogirls
 - Setup Database
 - Start Web Server
 - Run Website: http://127.0.0.1:8000/
+
+## Django Models
+- Know about objects
+- Create application - blog
+- Create blog post model
+- Create tables for models in your database
