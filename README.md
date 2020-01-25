@@ -14,3 +14,9 @@ Django - Web Development Tutorial from Djangogirls
 - Create application - blog
 - Create blog post model
 - Create tables for models in your database
+
+## Django Admin
+- Import post model
+- Create a superuser
+- Login to Django admin
+- Create posts
