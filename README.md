@@ -26,3 +26,15 @@ Django - Web Development Tutorial from Djangogirls
 - Create repository & push codes to GitHub
 - Sign Up account & setup blog on PythonAnywhere
 - Ready deploy web on PythonAnywhere
+
+## Django URLs
+- Create blog urls on blog/urls.py
+
+## Django Views
+- Create views function on blog/views.py
+
+## Django Templates
+- Create first template
+    - Create directory blog/templates/blog
+    - Create & customize HTML template file
+- Push to Github, the deploy on PythonAnywhere
