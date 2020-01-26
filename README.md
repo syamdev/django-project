@@ -71,3 +71,6 @@ Django - Web Development Tutorial from Djangogirls
 - Form validation
 - Edit form
 - Authenticated form
+
+## The Tutorial Done!
+- Time to deploy
