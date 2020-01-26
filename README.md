@@ -72,5 +72,13 @@ Django - Web Development Tutorial from Djangogirls
 - Edit form
 - Authenticated form
 
-## The Tutorial Done!
+## The Tutorial Part 1 Done!
 - Time to deploy
+- Continue to tutorial extensions
+
+## Site Improvement
+- Save new posts as drafts
+- Page with list of unpublished posts
+- Add publish button
+- Add delete post button
+
