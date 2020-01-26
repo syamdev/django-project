@@ -91,4 +91,14 @@ Django - Web Development Tutorial from Djangogirls
     - need a username and password to log in,
     - need to be logged in to add, edit, publish or delete posts,
     - and can log out again.
+    
+## Create comment model
+- Creating comment blog model
+- Create tables for models in database
+- Register Comment model in admin panel
+- Make the comments visible
+- Let the readers write comments
+- Moderating comments: approve or delete
+- Show the number of approved comments
+- 
 
