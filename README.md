@@ -56,3 +56,9 @@ Django - Web Development Tutorial from Djangogirls
 
 ## Template Extending
 - Create a base template
+
+## Extend the Django application
+- Create a template link to a post's detail
+- Create a URL to a post's detail
+- Add a post's detail view
+- Create a template for the post details
