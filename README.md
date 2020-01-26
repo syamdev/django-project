@@ -100,5 +100,19 @@ Django - Web Development Tutorial from Djangogirls
 - Let the readers write comments
 - Moderating comments: approve or delete
 - Show the number of approved comments
-- 
+
+## PostgreSQL Installation
+- Install PostgreSQL on Ubuntu
+- Create database: name, user, and password
+- Update settings.py: DATABASES
+- Installing PostgreSQL package for Python
+    - pip install psycopg2
+    - just little complicated
+- Applying migrations and creating a superuser
+- Try the application
+    - run server
+    - login
+    - try to view/add/edit/delete posts & comments
+
+ 
 
