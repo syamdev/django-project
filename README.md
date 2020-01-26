@@ -62,3 +62,12 @@ Django - Web Development Tutorial from Djangogirls
 - Create a URL to a post's detail
 - Add a post's detail view
 - Create a template for the post details
+
+## Django Forms
+- Link to a page with the form
+- Create form page url
+- Create post_new view & template
+- Saving the form
+- Form validation
+- Edit form
+- Authenticated form
