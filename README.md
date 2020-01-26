@@ -53,3 +53,6 @@ Django - Web Development Tutorial from Djangogirls
 - Install Bootstrap
 - Learn static files in Django
 - Create CSS folder & file
+
+## Template Extending
+- Create a base template
