@@ -76,9 +76,19 @@ Django - Web Development Tutorial from Djangogirls
 - Time to deploy
 - Continue to tutorial extensions
 
-## Site Improvement
+## Site Improvements
 - Save new posts as drafts
 - Page with list of unpublished posts
 - Add publish button
 - Add delete post button
+
+## Secure Your Website
+- Authorizing add/edit of posts
+- View login users
+- Improving the layout
+- Add details to show when we are logged in
+- Now you have a blog where you:
+    - need a username and password to log in,
+    - need to be logged in to add, edit, publish or delete posts,
+    - and can log out again.
 
