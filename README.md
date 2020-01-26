@@ -38,3 +38,8 @@ Django - Web Development Tutorial from Djangogirls
     - Create directory blog/templates/blog
     - Create & customize HTML template file
 - Push to Github, the deploy on PythonAnywhere
+
+## Django ORM and QuerySets
+- Learn how Django connects to the database and stores data in it
+- Learn about QuerySet & Django shell
+- Learn about objects: view, create, filter, order
