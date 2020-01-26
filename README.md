@@ -37,7 +37,6 @@ Django - Web Development Tutorial from Djangogirls
 - Create first template
     - Create directory blog/templates/blog
     - Create & customize HTML template file
-- Push to Github, the deploy on PythonAnywhere
 
 ## Django ORM and QuerySets
 - Learn how Django connects to the database and stores data in it
@@ -46,3 +45,6 @@ Django - Web Development Tutorial from Djangogirls
 
 ## Dynamic data in templates
 - Connect models and templates
+
+## Django Templates Tags
+- Display post list template
