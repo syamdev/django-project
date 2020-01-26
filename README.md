@@ -43,3 +43,6 @@ Django - Web Development Tutorial from Djangogirls
 - Learn how Django connects to the database and stores data in it
 - Learn about QuerySet & Django shell
 - Learn about objects: view, create, filter, order
+
+## Dynamic data in templates
+- Connect models and templates
