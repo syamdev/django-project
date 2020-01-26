@@ -48,3 +48,8 @@ Django - Web Development Tutorial from Djangogirls
 
 ## Django Templates Tags
 - Display post list template
+
+## CSS Bootstrap on Django
+- Install Bootstrap
+- Learn static files in Django
+- Create CSS folder & file
