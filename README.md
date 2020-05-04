@@ -1,5 +1,7 @@
 # django-project
 Django - Web Development Tutorial from Djangogirls
+- https://tutorial.djangogirls.org/en/
+- https://tutorial-extensions.djangogirls.org/en/
 
 ## My First Django Project Running
 - Setup Virtualenv
@@ -125,4 +127,14 @@ Django - Web Development Tutorial from Djangogirls
 - Login Heroku account
 - Git commit
     - .gitignore local_settings.py
-    
+- Pick an application name
+- Git push to Heroku!
+- Visit your application
+    - start web process
+    - migrate & create DB
+
+## Done !!!
+- Hooray... Basic tutorial has done. You can modify or go to more advance step.
+- My Site on live version:
+    - PythonAnywhere: http://syamdev.pythonanywhere.com/
+    - Heroku: https://djangogirlsblog-syamdev.herokuapp.com/
