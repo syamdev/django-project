@@ -114,5 +114,15 @@ Django - Web Development Tutorial from Djangogirls
     - login
     - try to view/add/edit/delete posts & comments
 
- 
+## Deploy to Heroku
 
+- Create requirements.txt file
+- Create Procfile file
+- Create runtime.txt file
+- Create mysite/local_settings.py
+- Modify mysite/settings.py
+- Install Heroku CLI
+- Login Heroku account
+- Git commit
+    - .gitignore local_settings.py
+    
